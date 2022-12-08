@@ -20,8 +20,9 @@ This reposotory stores all the code for Polygon Miden. Everything is open source
 | Repository              | Description |
 | ----------------------- | ----------- |
 | [AirScript](https://github.com/0xPolygonMiden/air-script) | A domain-specific language for writing AIR constraints for Miden VM. |
-| [Miden Crypto](https://github.com/0xPolygonMiden/crypto) | Cryptographic primitives used in Polygon Miden rollup. |
-| [Examples](https://github.com/0xPolygonMiden/examples) | Examples of using the Miden VM and Miden assembly. |
+| [Miden Crypto](https://github.com/0xPolygonMiden/crypto)  | Cryptographic primitives used in Polygon Miden rollup. |
+| [Miden VM](https://github.com/0xPolygonMiden/miden-vm)    | STARK-based virtual machine for Polygon Miden rollup. |
+| [Examples](https://github.com/0xPolygonMiden/examples)    | Examples of using the Miden VM and Miden assembly. |
 
 ## Status
 At the moment you can use the Miden VM v0.3.0 on our [playground](https://0xpolygonmiden.github.io/examples/) and locally. Check out the Miden VM repository or our [Miden VM docs](https://wiki.polygon.technology/docs/miden/intro/main) for more detailed instructions.
