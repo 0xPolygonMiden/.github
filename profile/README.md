@@ -29,7 +29,7 @@ At the moment you can use the Miden VM v0.3.0 on our [playground](https://0xpoly
     
 As soon as we have the Miden Client or Miden Node, we will make it available. Follow us on Twitter to get the latest updates.
     
-In case you want to use parts of Polygon Miden - like the Miden VM or AIR DSL - please reach out to [us](dschmid@polygon.technology).
+In case you want to use parts of Polygon Miden - like the Miden VM or AirScript - please reach out to [us](dschmid@polygon.technology).
 
 ## Design    
 
