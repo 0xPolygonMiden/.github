@@ -15,7 +15,7 @@
 - At the heart of Polygon Miden is the Miden VM: a Turing-complete STARK-based virtual machine which provides a level of safety and supports advanced features currently unavailable on Ethereum.
 
 ## Project structure
-This reposotory stores all the code for Polygon Miden. Everything is open source. 
+This repository stores all the code for Polygon Miden. Everything is open source. 
 
 | Repository              | Description |
 | ----------------------- | ----------- |
