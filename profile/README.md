@@ -22,7 +22,7 @@ This repository stores all the code for Polygon Miden. Everything is open source
 | [Miden Base](https://github.com/0xPolygonMiden/miden-base)    | Core components of the Polygon Miden rollup. |
 | [Miden Client](https://github.com/0xPolygonMiden/miden-client)| A reference Miden Client to be used by users. |
 | [Miden Crypto](https://github.com/0xPolygonMiden/crypto)      | Cryptographic primitives used in Polygon Miden rollup. |
-| [Miden IR](https://github.com/0xPolygonMiden/miden-ir)        | MidenIR for compiling to Miden Assembly from higher-level languages. |
+| [Miden Compiler](https://github.com/0xPolygonMiden/compiler)  | Compiler from MidenIR to Miden Assembly. |
 | [Miden Node](https://github.com/0xPolygonMiden/miden-node)    | Miden Node to be used by the Miden operators. |
 | [Miden VM](https://github.com/0xPolygonMiden/miden-vm)        | STARK-based virtual machine for Polygon Miden rollup. |
 | [Examples](https://github.com/0xPolygonMiden/examples)        | Examples of using the Miden VM and Miden assembly. |
