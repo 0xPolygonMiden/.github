@@ -28,7 +28,7 @@ This repository stores all the code for Polygon Miden. Everything is open source
 | [Examples](https://github.com/0xPolygonMiden/examples)        | Examples of using the Miden VM and Miden assembly. |
 
 ## Status
-At the moment you can use the Miden VM v0.6 on our [playground](https://0xpolygonmiden.github.io/examples/) and locally. Check out the Miden VM repository or our [Miden VM docs](https://wiki.polygon.technology/docs/miden/intro/main) for more detailed instructions.
+At the moment you can use the Miden VM v0.7 on our [playground](https://0xpolygonmiden.github.io/examples/) and locally. Check out the Miden VM repository or our [Miden VM docs](https://wiki.polygon.technology/docs/miden/intro/main) for more detailed instructions.
     
 As soon as we have the Miden Client or Miden Node, we will make it available. Follow us on Twitter to get the latest updates.
     
