@@ -6,7 +6,7 @@
 [ico-twitter]: https://img.shields.io/twitter/url?label=polygonMiden&style=social&url=https%3A%2F%2Ftwitter.com%2F0xpolygonmiden
 [ico-website]: https://img.shields.io/static/v1?label=docs&message=PolygonMiden&color=7B3FE4
 
-[link-discord]: https://discord.com/invite/0xpolygondevs
+[link-discord]: https://discord.gg/0xPolygonRnD
 [link-twitter]: https://twitter.com/0xPolygonDevs
 [link-website]: https://docs.polygon.technology/miden/
 
